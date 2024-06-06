@@ -13,6 +13,8 @@ void ecran_accueil()
 
 void demarrer()
 {
+    int nbredes_mots_à_saisir;
+    char nom_utilisateur[20];
 
 }
 
