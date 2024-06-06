@@ -13,8 +13,10 @@ void ecran_accueil()
 
 void demarrer()
 {
-    int nbredes_mots_à_saisir;
+    int nbredes_mots_a_saisir;
     char nom_utilisateur[20];
+
+
 
 }
 
@@ -25,12 +27,16 @@ void configurer()
 
 void aide()
 {
+    printf("\n");
+    printf("\t======== DESCRIPTION DE L'APPLICATION ========");
+    printf(" ");
 
+    printf("")
 }
 
 void quitter()
 {
-
+    print
 }
 
 int choix_utilisateur(int choix)
